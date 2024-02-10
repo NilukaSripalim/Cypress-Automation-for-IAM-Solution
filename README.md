@@ -16,13 +16,13 @@ This repository serves as a knowledge-sharing platform for IAM professionals and
 
 1. **Clone the Repository:**
 
+``` git clone https://github.com/NilukaSripalim/Cypress-Automation-for-IAM.git ```
 
 2. **Install Dependencies:**
 
-```
-cd Cypress-Automation-for-IAM
-npm install
- ```
+``` cd Cypress-Automation-for-IAM ```
+
+``` npm install ```
 
 3. **Run Cypress Tests:**
 
